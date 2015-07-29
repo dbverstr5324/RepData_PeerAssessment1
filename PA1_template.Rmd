@@ -4,15 +4,14 @@ author: "Dave Verstraete"
 date: "July 11, 2015"
 output:
   html_document:
-    keep_md: yes
+    keep_md: true
     toc: yes
 runtime: shiny
 ---
 
 #Loading and preprocessing the data
 
-```{r eccho = FALSE}
-sessionInfo()
+```{r}
 setwd("~/Coursera Data Science Course/5 - Reproducible Research/Assignment 1/repdata_data_activity")
 data <- read.csv("activity.csv")
 ```
