@@ -1,6 +1,6 @@
 # Peer Assessment 1
 Dave Verstraete  
-July 11, 2015  
+August 3, 2015  
 
 #Loading and preprocessing the data
 
